@@ -5,6 +5,7 @@ In this work, we reveal the realisticness issue of vanilla synthesis-based LiDAR
 
 For more details, please refer to: **Real-Aug: Realistic Scene Synthesis for LiDAR Augmentation in 3D Object Detection [[Paper](https://arxiv.org/abs/2305.12853)]** <br />
 <p align="center"> <img src="img/real-aug.JPG" width="100%"> </p>
+
 ## News
 <!-- - [2023-03-06] Real-Aug achieved the SOTA performance on the nuScenes LiDAR-only 3D object detection benchmark. -->
 
